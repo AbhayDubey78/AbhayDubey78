@@ -1,34 +1,128 @@
 <h1 align="center">Hi 👋, I'm Abhay Dubey</h1>
-<h3 align="center">🚀 Aspiring Software Developer from India</h3>
+<h3 align="center">🚀 Aspiring Software Developer | AI & Full Stack Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+Developer;Full+Stack+Engineer;DSA+Problem+Solver;Building+Real+World+Projects" />
+</p>
 
 ---
 
-## 💫 About Me
-- 🔭 I’m currently working on **AI & Web Projects**
-- 🌱 I’m learning **DSA, Full Stack Development**
-- 🤝 I’m looking for **Internships & Collaboration**
-- ⚡ Fun fact: I love building real-world tech solutions
+## 👨‍💻 About Me
+
+- 🔭 Building **AI Resume Analyzer**
+- 🌱 Learning **Machine Learning & Backend Systems**
+- 🧠 Strong in **C++ + DSA**
+- ⚡ Focused on **real-world impactful projects**
 
 ---
 
-## 🚀 Skills
-- 💻 Languages: C, C++, Python, JavaScript
-- 🌐 Web: HTML, CSS, JavaScript
-- 🤖 AI/ML: Basics of Machine Learning
-- 🛢️ Database: MySQL
+## 🛠️ Tech Stack
+
+### 💻 Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+
+### 🌐 Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+
+### 🤖 AI / ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
 
 ---
 
-## 📌 Projects
-- 🤖 Face Recognition Attendance System
-- 🌱 Smart Irrigation System (IoT)
-- 📊 Stock Prediction Model (Basic)
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## 📫 Connect with Me
-- GitHub: https://github.com/AbhayDubey78
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
-⭐ Don't forget to star my repositories!
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🔥 AI Resume Analyzer
+> NLP-based system to analyze resumes & match job descriptions
+
+### 🌊 AI Model for Ocean Pollution Reduction
+> Built using Computer Vision + Deep Learning to detect plastic waste in ocean images and assist environmental cleanup strategies
+
+### 🛒 Fake Review Detection
+> Machine Learning model to classify fake vs real product reviews
+
+### 🎮 Tic Tac Toe (React)
+> Interactive UI-based game using React
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">📫 Reach out to me for collaborations, projects, or opportunities</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINK" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
+
+## 💡 Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+## 😂 Fun Element
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## ⭐ Philosophy
+
+> “Build projects that solve real problems — not just tutorials.”
