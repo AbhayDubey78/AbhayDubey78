@@ -2,7 +2,8 @@
 <h3 align="center">🚀 Aspiring Software Developer | AI & Full Stack Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+Developer;Full+Stack+Engineer;DSA+Problem+Solver;Building+Real+World+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+Developer;Full+Stack+Developer
+    ;DSA+Problem+Solver;Building+Real+World+Projects" />
 </p>
 
 ---
