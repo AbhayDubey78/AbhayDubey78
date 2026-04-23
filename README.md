@@ -8,8 +8,6 @@
 ---
 
 ## 👨‍💻 About Me
-
-- 🔭 Building **AI Resume Analyzer**
 - 🌱 Learning **Machine Learning & Backend Systems**
 - 🧠 Strong in **C++ + DSA**
 - ⚡ Focused on **real-world impactful projects**
