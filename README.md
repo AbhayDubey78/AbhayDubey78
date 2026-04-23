@@ -69,11 +69,16 @@
 ### 🌊 AI Model for Ocean Pollution Reduction
 > Built using Computer Vision + Deep Learning to detect plastic waste in ocean images and assist environmental cleanup strategies
 
-### 🛒 Fake Review Detection
-> Machine Learning model to classify fake vs real product reviews
+### 🎵 Spotify Clone
+> Ad-free music streaming web app with modern UI  
+🔗 https://github.com/AbhayDubey78  
+**Tech:** React, Node.js, MongoDB  
 
-### 🎮 Tic Tac Toe (React)
-> Interactive UI-based game using React
+
+### 🌐 3D Portfolio Website
+> Interactive 3D portfolio built with modern web technologies  
+🔗 https://github.com/AbhayDubey78/Portfolio-Website  
+**Tech:** React, Three.js, Tailwind CSS  
 
 ---
 
